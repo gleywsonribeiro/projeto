@@ -9,6 +9,6 @@ package com.model;
  *
  * @author gleywson
  */
-public enum Papel {
+public enum Role {
     ADMIN, USER;
 }
