@@ -54,3 +54,4 @@ public class LoginMB extends AbstractMB {
         this.userMB = userMB;
     }   
 }
+
